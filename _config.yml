@@ -1,1 +1,2 @@
-theme: jekyll-theme-architect
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air" # Options: "air", "aqua", "contrast", "dark"
